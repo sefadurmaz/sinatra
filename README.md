@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
