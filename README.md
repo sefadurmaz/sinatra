@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Remove unused variables (#8511)
