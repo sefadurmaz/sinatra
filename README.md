@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add docs guide terminal images (#8819)
