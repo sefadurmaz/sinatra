@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add Amazon Sagemaker Docs integrations page (#7293)
