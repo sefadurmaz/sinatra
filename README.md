@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add dota8.yaml and O tests (#7394)
