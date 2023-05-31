@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
