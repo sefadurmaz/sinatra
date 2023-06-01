@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
