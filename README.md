@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Fix Multi-GPU resume bug (#7328)
