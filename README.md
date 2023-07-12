@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add PR Summary step to Ultralytics Actions (#7675)
