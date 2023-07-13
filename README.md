@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
