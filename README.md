@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
