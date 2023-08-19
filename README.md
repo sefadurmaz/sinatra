@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Update CI.md with CI links (#8786)
