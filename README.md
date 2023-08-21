@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Elaborate Train and Predict mode docs arguments (#8137)
