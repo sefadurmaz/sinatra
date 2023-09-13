@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
