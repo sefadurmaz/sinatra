@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
