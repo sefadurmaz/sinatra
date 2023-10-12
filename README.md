@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
