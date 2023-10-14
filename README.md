@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Update neural-magic.md (#7347)
