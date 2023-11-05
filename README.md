@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
