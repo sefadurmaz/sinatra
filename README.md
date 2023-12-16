@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Fix Yolo 8.0.206 scale bug (#7821)
