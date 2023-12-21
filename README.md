@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+YOLOv8 INT8 TFLite Inference Example (#7317)
