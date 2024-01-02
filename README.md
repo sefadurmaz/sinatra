@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
