@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add PaddlePaddle Docs Integrations Page (#8858)
