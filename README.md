@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
