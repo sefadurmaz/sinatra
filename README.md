@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+YOLOv8 INT8 TFLite Inference Example (#7317)
