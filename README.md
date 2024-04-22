@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
