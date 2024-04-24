@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Update Docs Home and Neural Magic pages (#7243)
