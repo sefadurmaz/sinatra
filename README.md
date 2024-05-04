@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
