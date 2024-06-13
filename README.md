@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
