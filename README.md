@@ -1,1 +1,1 @@
-fix val each epoch
+Add docstrings to new HUB functions (#7576)
