@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
