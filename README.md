@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add dota8.yaml and O tests (#7394)
