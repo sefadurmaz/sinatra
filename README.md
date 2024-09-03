@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
