@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add quantization support to TensorFlow.js converter (#7008)
