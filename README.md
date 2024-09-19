@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update inference.cpp (bug) (#7279)
