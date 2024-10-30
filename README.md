@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Expand Model method type hinting (#8279)
