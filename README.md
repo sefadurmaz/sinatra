@@ -1,1 +1,1 @@
-update
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
